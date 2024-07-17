@@ -2,8 +2,8 @@
 describe('User Signup and Login', () => { 
 
   // Constant data
-  const email = 'dummymail1@gmail.com';
-  const validation_email = 'dummymail2@gmail.com';
+  const email = 'dummymail3@gmail.com';
+  const validation_email = 'dummymail4@gmail.com';
   const password = 'Test@1234';
   const otp = '123456';
   const phoneNumber = '1234567890';

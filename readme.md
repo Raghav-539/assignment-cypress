@@ -27,12 +27,10 @@
     
 
 ## 4. Assumptions/Suggestions
-    i. All the input fields and button should have a unique id
+    i. All the input fields and buttons should have a unique id
     ii. URLs are assumed to be 'https://dev-fe.buttonshift.com/signup' and 'https://dev-fe.buttonshift.com/login' for signup and login pages respectively.
 
 ## 5. Notes - 
     i. Due to network latency it may give error while running, so you need to start the session again.
-    ii. Change the email and validate-email when you run the test again, if you fail to change them email id's then it may give error of account already exists.
-
-
+    ii. Change the email and validate-email when you run the test again, if you fail to change them email id's then it may give error of account already exists. Then testcase will lead to fail.
 
